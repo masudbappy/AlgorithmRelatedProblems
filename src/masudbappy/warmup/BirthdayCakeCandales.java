@@ -1,4 +1,4 @@
-package masudbappy;
+package masudbappy.warmup;
 
 import java.util.Scanner;
 
